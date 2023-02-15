@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hamza Hdili</h1>
 <h2 align="center">A passionate full-stack developer from Morocco</h2>
-<h3 align="center">I don't have Talent , I am The Talent</h3>
+<h3 align="center"><b>Programming</b><br><i>like I was born for it.</i></h3>
+
+
 
 <img align='right' alt="Coding" width='400' src='https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif'></img>
 
