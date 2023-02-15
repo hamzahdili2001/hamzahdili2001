@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza Hdili</h1>
-<h3 align="center">A passionate full-stack developer from Morocco</h3>
+<h2 align="center">A passionate full-stack developer from Morocco</h2>
+<h3 align="center">I don't have Talent , I am The Talent</h3>
 
 <img align='right' alt="Coding" width='400' src='https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif'></img>
 
@@ -7,11 +8,11 @@
 
 - 🌱 I’m currently learning **React.js and Node.js**
 
-- 💬 Ask me about **react, python, javascript**
+- 💬 Ask me about **Anything related to Code**
 
-- 📫 How to reach me **hdilihamza955@gmail.com**
+- 📫 How to reach me **contact.softwarengineer@gmail.com**
 
-- ⚡ Fun fact **I think programming is cool**
+- ⚡ Fun fact **Bugs means Fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
