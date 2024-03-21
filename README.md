@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&usqp=CAU"  />
 </div>
 
 ###
@@ -25,15 +25,13 @@
 ###
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<p align="left">I'm Hamza from Morocco<br><br>- 📚 I'm currently learning coding<br>- ⚡ In my free time I listen to music</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<div>👋 Hey! I'm Hamza, a coder from Morocco 🇲🇦.</br> I love coding and creating cool stuff with lines of code 💻. </br> When not coding, I enjoy exploring new tech, collaborating on fun projects,</br> and contributing to the world of software development 🚀.
+</div>
 
 ###
+###
+
+<h3 align="left">🛠 Tools & languages</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -47,6 +45,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
