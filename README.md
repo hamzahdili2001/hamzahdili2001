@@ -60,8 +60,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hamzahdili2001&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
+![hamzahdili2001's Stats](https://github-readme-stats.vercel.app/api?username=hamzahdili2001&theme=nord&show_icons=true&hide_border=true&count_private=true)
+![hamzahdili2001's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamzahdili2001&theme=nord&hide_border=true)
 ###
